@@ -1,7 +1,7 @@
 {
     "result":"success",
     "id":31716,
-    "Version":"3.0.4",
+    "Version":"3.0.994",
     "URL":"https://www.icloud.com/shortcuts/48f3f1372c6d484b9d757821ffc792c8",
     "Notes":"\u2022 Backwards compatibility with iOS14 (it works on iOS15 too)\r\n\u2022 Reduced the number of donation alerts\r\n\u2022 From now on unnecessary updates can be omitted\r\n\u2022 Thank you for using DTwitter \u2661",
     "Release":"February 06, 2022"
